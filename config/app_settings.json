@@ -1,0 +1,13 @@
+{
+  "danger_ports": [
+    "21",
+    "23",
+    "135",
+    "139",
+    "445",
+    "3389"
+  ],
+  "default_protocol": "TCP",
+  "theme": "dark",
+  "auto_refresh": true
+}
